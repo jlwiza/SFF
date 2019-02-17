@@ -1,0 +1,38 @@
+package com.jonLwiza.engine.state.sonicBehavior.Air.Jump
+{
+	import com.jonLwiza.engine.actors.Hero;
+	import com.jonLwiza.engine.baseConstructs.Behaviour;
+	import com.jonLwiza.engine.baseConstructs.GeneralActor;
+	
+	public class JumpFalling extends Behaviour
+	{
+		public function JumpFalling(actor:GeneralActor=null, name:String=null)
+		{
+			super(actor, name);
+		}
+		
+		override public function initialize():void
+		{
+			var a:Hero = actor as Hero
+			run = (!a.hanging && !a.isGrounded && a.isJumping && a.body.velocity.y < 0)
+		}
+		
+		
+		override public function update():String
+		{
+			actor.currMBehaviour = "JumpFalling";
+			for (var i:int = 0; i < actor.currScene.length-1; i++) 
+			{
+				
+				if(actor.currScene[i].sonicJumpFalling != null)
+					break;
+			}
+			
+			status = actor.currScene[i].SonicJumpFalling(actor);
+			
+			// update returns a status anything besides invalid, invalid is just so init runs once
+			return status;
+		}
+		
+	}
+}

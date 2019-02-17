@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="testing.png">
+	<!-- Created with Adobe Flash Professional version 14.0.0.110 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="CliffSonicWalking0000" x="1769" y="724" width="62" height="119" pivotX="0" pivotY="0"/>
+	<SubTexture name="CliffSonicwaiting0000" x="1991" y="803" width="54" height="119" pivotX="2.85" pivotY="5.85"/>
+	<SubTexture name="CliffSonicwaiting0001" x="1991" y="803" width="54" height="119"/>
+	<SubTexture name="CliffSonicwaiting0002" x="1991" y="803" width="54" height="119"/>
+	<SubTexture name="CliffSonicwaiting0003" x="1991" y="803" width="54" height="119"/>
+	<SubTexture name="begsonicJogging0000" x="1796" y="929" width="47" height="66" pivotX="0" pivotY="0"/>
+	<SubTexture name="begsonicWalking0000" x="2003" y="218" width="42" height="71" pivotX="0" pivotY="0"/>
+	<SubTexture name="bigBidle0000" x="901" y="554" width="319" height="495" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="319" frameHeight="497"/>
+	<SubTexture name="bigBidle0001" x="901" y="554" width="319" height="495" frameX="0" frameY="0" frameWidth="319" frameHeight="497"/>
+	<SubTexture name="bigBidle0002" x="1220" y="554" width="285" height="497" frameX="0" frameY="0" frameWidth="319" frameHeight="497"/>
+	<SubTexture name="brknMess0000" x="1912" y="418" width="112" height="80" pivotX="1" pivotY="1"/>
+	<SubTexture name="brokenHornetIdle0000" x="1913" y="116" width="104" height="102" pivotX="-16" pivotY="11" frameX="0" frameY="0" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0001" x="1913" y="116" width="104" height="102" frameX="0" frameY="0" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0002" x="1505" y="722" width="78" height="99" frameX="-12" frameY="-11" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0003" x="1505" y="722" width="78" height="99" frameX="-12" frameY="-11" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0004" x="1505" y="722" width="78" height="99" frameX="-12" frameY="-11" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0005" x="1783" y="619" width="75" height="105" frameX="-12" frameY="-1" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0006" x="1783" y="619" width="75" height="105" frameX="-12" frameY="-1" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="brokenHornetIdle0007" x="1783" y="619" width="75" height="105" frameX="-12" frameY="-1" frameWidth="104" frameHeight="110"/>
+	<SubTexture name="cliffSonicJogging0000" x="1912" y="498" width="75" height="113" pivotX="0" pivotY="0"/>
+	<SubTexture name="driving0000" x="1598" y="636" width="92" height="86" pivotX="2.5" pivotY="0.5" frameX="-2" frameY="0" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0001" x="1598" y="636" width="92" height="86" frameX="-2" frameY="0" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0002" x="1598" y="636" width="92" height="86" frameX="-2" frameY="0" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0003" x="1505" y="636" width="93" height="86" frameX="-1" frameY="-1" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0004" x="1505" y="636" width="93" height="86" frameX="-1" frameY="-1" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0005" x="1505" y="636" width="93" height="86" frameX="-1" frameY="-1" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0006" x="1690" y="636" width="93" height="85" frameX="0" frameY="0" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="driving0007" x="1690" y="636" width="93" height="85" frameX="0" frameY="0" frameWidth="94" frameHeight="87"/>
+	<SubTexture name="hornetIdle0000" x="1690" y="721" width="79" height="98" pivotX="-18" pivotY="8.85" frameX="0" frameY="-7" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetIdle0001" x="1690" y="721" width="79" height="98" frameX="0" frameY="-7" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetIdle0002" x="1722" y="843" width="74" height="90" frameX="-9" frameY="-8" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetIdle0003" x="1722" y="843" width="74" height="90" frameX="-9" frameY="-8" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetIdle0004" x="1722" y="843" width="74" height="90" frameX="-9" frameY="-8" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetIdle0005" x="1648" y="819" width="74" height="96" frameX="-10" frameY="0" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetIdle0006" x="1648" y="819" width="74" height="96" frameX="-10" frameY="0" frameWidth="84" frameHeight="105"/>
+	<SubTexture name="hornetsreceedingtutScene0000" x="1505" y="554" width="278" height="82" pivotX="0" pivotY="0"/>
+	<SubTexture name="netCaught0000" x="1913" y="218" width="90" height="112" pivotX="0" pivotY="0"/>
+	<SubTexture name="netCaught0001" x="1913" y="218" width="90" height="112"/>
+	<SubTexture name="netCaught0002" x="1802" y="254" width="90" height="112"/>
+	<SubTexture name="netCaught0003" x="1802" y="254" width="90" height="112"/>
+	<SubTexture name="netCaught0004" x="1913" y="218" width="90" height="112"/>
+	<SubTexture name="netCaught0005" x="1913" y="218" width="90" height="112"/>
+	<SubTexture name="netFree0000" x="1938" y="611" width="73" height="110" pivotX="0" pivotY="0"/>
+	<SubTexture name="skychasefallabovebehind0000" x="1892" y="330" width="112" height="88" pivotX="0" pivotY="0"/>
+	<SubTexture name="skychasefallbellowright0000" x="1577" y="915" width="100" height="61" pivotX="0" pivotY="0"/>
+	<SubTexture name="skychasefallbelowright0000" x="1802" y="418" width="110" height="82" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicLookUpjogging0000" x="1831" y="731" width="73" height="101" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicWalkLoopUp0000" x="1831" y="832" width="68" height="97" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicskidding0000" x="1802" y="116" width="111" height="138" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicsliding0000" x="1802" y="0" width="194" height="116" pivotX="12.1" pivotY="-6.5"/>
+	<SubTexture name="sonicwaitingLookUp0000" x="1505" y="821" width="72" height="96" pivotX="-1.5" pivotY="0.4"/>
+	<SubTexture name="sonicwaiting_112.50000" x="1871" y="611" width="67" height="120" pivotX="4.2" pivotY="-1.65"/>
+	<SubTexture name="sonicwaiting_112.50001" x="1871" y="611" width="67" height="120"/>
+	<SubTexture name="sonicwaiting_112.50002" x="1871" y="611" width="67" height="120"/>
+	<SubTexture name="sonicwaiting_112.50003" x="1871" y="611" width="67" height="120"/>
+	<SubTexture name="sonicwaiting_157.50000" x="1996" y="0" width="51" height="103" pivotX="-9.4" pivotY="0"/>
+	<SubTexture name="sonicwaiting_157.50001" x="1996" y="0" width="51" height="103"/>
+	<SubTexture name="sonicwaiting_157.50002" x="1996" y="0" width="51" height="103"/>
+	<SubTexture name="sonicwaiting_202.50000" x="1987" y="498" width="56" height="112" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicwaiting_202.50001" x="1987" y="498" width="56" height="112"/>
+	<SubTexture name="sonicwaiting_202.50002" x="1987" y="498" width="56" height="112"/>
+	<SubTexture name="sonicwaiting_22.50000" x="1583" y="722" width="65" height="116" pivotX="-1.2" pivotY="-0.35"/>
+	<SubTexture name="sonicwaiting_22.50001" x="1583" y="722" width="65" height="116"/>
+	<SubTexture name="sonicwaiting_22.50002" x="1583" y="722" width="65" height="116"/>
+	<SubTexture name="sonicwaiting_247.50000" x="1505" y="917" width="54" height="107" pivotX="0.1" pivotY="-0.35"/>
+	<SubTexture name="sonicwaiting_247.50001" x="1505" y="917" width="54" height="107"/>
+	<SubTexture name="sonicwaiting_247.50002" x="1505" y="917" width="54" height="107"/>
+	<SubTexture name="sonicwaiting_292.50000" x="1991" y="922" width="49" height="97" pivotX="0" pivotY="0"/>
+	<SubTexture name="sonicwaiting_292.50001" x="1991" y="922" width="49" height="97"/>
+	<SubTexture name="sonicwaiting_292.50002" x="1991" y="922" width="49" height="97"/>
+	<SubTexture name="sonicwaiting_337.50000" x="1802" y="500" width="69" height="119" pivotX="0.75" pivotY="0.95"/>
+	<SubTexture name="sonicwaiting_337.50001" x="1802" y="500" width="69" height="119"/>
+	<SubTexture name="sonicwaiting_337.50002" x="1802" y="500" width="69" height="119"/>
+	<SubTexture name="sonicwaiting_67.50000" x="1991" y="803" width="54" height="119" pivotX="2.85" pivotY="5.85"/>
+	<SubTexture name="sonicwaiting_67.50001" x="1991" y="803" width="54" height="119"/>
+	<SubTexture name="sonicwaiting_67.50002" x="1991" y="803" width="54" height="119"/>
+	<SubTexture name="sonicwaiting_67.50003" x="1991" y="803" width="54" height="119"/>
+	<SubTexture name="spawnHornet0000" x="2004" y="289" width="35" height="44" pivotX="1" pivotY="1" frameX="-22" frameY="-27" frameWidth="81" frameHeight="89"/>
+	<SubTexture name="spawnHornet0001" x="2004" y="289" width="35" height="44" frameX="-22" frameY="-27" frameWidth="81" frameHeight="89"/>
+	<SubTexture name="spawnHornet0002" x="2004" y="289" width="35" height="44" frameX="-22" frameY="-27" frameWidth="81" frameHeight="89"/>
+	<SubTexture name="spawnHornet0003" x="1577" y="838" width="55" height="66" frameX="0" frameY="-12" frameWidth="81" frameHeight="89"/>
+	<SubTexture name="spawnHornet0004" x="1577" y="838" width="55" height="66" frameX="0" frameY="-12" frameWidth="81" frameHeight="89"/>
+	<SubTexture name="spawnHornet0005" x="1904" y="803" width="81" height="89"/>
+	<SubTexture name="splashscreen0000" x="0" y="0" width="901" height="554" pivotX="0" pivotY="12.4"/>
+	<SubTexture name="splashscreen0001" x="901" y="0" width="901" height="554"/>
+	<SubTexture name="splashscreen0002" x="0" y="554" width="901" height="554"/>
+	<SubTexture name="targetingRecticle0000" x="1938" y="721" width="96" height="82" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="98" frameHeight="82"/>
+	<SubTexture name="targetingRecticle0001" x="1938" y="721" width="96" height="82" frameX="0" frameY="0" frameWidth="98" frameHeight="82"/>
+	<SubTexture name="targetingRecticle0002" x="1899" y="892" width="92" height="70" frameX="-6" frameY="-6" frameWidth="98" frameHeight="82"/>
+	<SubTexture name="targetingRecticle0003" x="1899" y="892" width="92" height="70" frameX="-6" frameY="-6" frameWidth="98" frameHeight="82"/>
+</TextureAtlas>

@@ -1,0 +1,27 @@
+﻿package com.jonLwiza.engine.baseConstructs{	import com.jonLwiza.engine.Main;	import com.jonLwiza.engine.Scenes.FightScene;	import com.jonLwiza.engine.actors.Hero;	import com.jonLwiza.engine.actors.MainStage;	import com.jonLwiza.engine.helperTypes.LevelEvent;		import flash.display.DisplayObjectContainer;	import flash.utils.getDefinitionByName;	import flash.utils.getQualifiedClassName;		import starling.display.Sprite;	import starling.events.Event;
+		public class SceneHandler extends Trigger	{		// all i have to do is switch live edit on for this to work		/* NOTE IM LEAVING THIS AS IS SINCE I CAN JUST TELL THE BADDIES PROGRAMATICALLY.. or manually i guess WHAT SCENE THEY ARE IN BUT FOR EXPANSION PURPOSES THE BADDIES NEED TO WATCH OUT AND SEE WHAT SCENE THEY ARE IN */		/* I WILL PROBABLY END UP DELETING THE ON ENTER ANYWAY, ITS REALLY NOT NECESSARY, AND THE WAY IT GOES ABOUT DOING THINGS IS A BIT BACKWARDS*/		private var _stage_mc:MainStage;		private var _liveEdit:Boolean = false		protected static var scneEditor:*		public function SceneHandler()		{				super();		}				override protected function allLoaded(event:Event):void		{			removeEventListener(Event.ADDED_TO_STAGE, allLoaded);			addEventListener(Trigger.HEROCOLLIDED, OnEnterTrigger);			addEventListener(Trigger.HERODECOLLIDED, OnLeaveTrigger);							if (liveEdit)			scneEditor.addedToStage();				else					addedToStage();						//addEventListener(Event.ENTER_FRAME, OnEnterFrame);			//hero = Hero(this.parent.getChildByName("hero_mc"));			//cam = Camera(this.parent.parent.getChildByName("stage_mc"));		}				protected function addedToStage():void
+		{
+		
+		}						public function setModule ():void{			if(!Main.Release){			scneEditor = LevelEditor.module.setScene(getQualifiedClassName(this))			}else{			scneEditor = StarlingProject.module.setScene(getQualifiedClassName(this))			}			// this one was the test one Ill use it shortly heres			// whats stopping me for now I can call this just fine but I need to send i			// let it return a vector and when the vector comes back we have a function			// that asks whether the vector has changed, if it has then we say			// that this is camera movement and move the view accordingly			// meanwhile another function just sends the scenary this function			// inside module now just listens for boolean var in module that is turned on			// through animate using the new tool that rotates shit around						// whats more important though is the moving an object around function			// it does this by shit fuck and curruption using a similar function to rotation			// for now we'll just focus on x and y, but basically we'll copy over the position			// it was using with the mouse and thats it just move the bitch			// so for today would be great is a script that adds a new scenary 			// just copy the script that says new scenary and put it in as3 level editor			// then we need a new script commitTo game, which would be great cuz then you could wip up a 2d scene wicked quick, just 			//LevelEditor.module.test(12) //myScenary(Main.liveCamera.hero_mc.x,Main.liveCamera.hero_mc.y)						LevelEditor.liveEdit = true;//scneEditor.liveEdit;		}				protected function OnEnterTrigger(event:LevelEvent):void		{			//get sonic and tell 			// change to getchildatIndex			if(stage_mc!= event.actor.parent)			stage_mc = MainStage(event.actor.parent);			event.actor.currScene.unshift(this);						if(LevelEditor.liveEdit){			scneEditor.HeroEntered();			//throw Error("working");			}else{			HeroEntered();			}					this.parent		}				protected function OnLeaveTrigger(e:LevelEvent):void		{					//if(hero.currScene.length > 1){			for (var i:int = 0; i < e.actor.currScene.length; i++) 
+			{								if(this == e.actor.currScene[i])
+				e.actor.currScene.splice(i,1);
+			}
+									//hero.currScene = [hero.currScene.slice(0,hero.currScene.indexOf(this)), hero.currScene.slice(hero.currScene.indexOf(this)+1)]//			else{//			//					if(hero.inFight)//						stage_mc.hero_mc.currScene =[];//					else//						stage_mc.hero_mc.currScene =[stage_mc.mainScene_mc];//					//					//trace("we had nothing so added ",hero.currScene[0]);//					//				//			}								// TODO Auto-generated method stub//				//trace(e.actor.currScene.length)//				//trace(e.actor.parent)							if(LevelEditor.liveEdit)			scneEditor.HeroLeft()			else			HeroLeft()		}		// i need to set up an event listener in trigger that dispatches an event when it first enters, use a bool ifhero is in and if sonic is out kind of deal				protected function HeroEntered():void		{							}				protected function HeroLeft():void		{					}		public function get stage_mc():MainStage
+		{
+			return _stage_mc;
+		}		public function set stage_mc(value:MainStage):void
+		{
+			_stage_mc = value;
+		}		public function get liveEdit():Boolean
+		{
+			return _liveEdit;
+		}		public function set liveEdit(value:Boolean):void
+		{
+			_liveEdit = value;
+		}//		public function get scneEditor():*
+//		{
+//			return _scneEditor;
+//		}////		public function set scneEditor(value:*):void
+//		{
+//			_scneEditor = value;
+//		}	}}

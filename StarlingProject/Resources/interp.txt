@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset name="interp" tilewidth="512" tileheight="512">
+ <image source="../../../../Desktop/sonicBGs/interp.png" width="20000" height="2000"/>
+</tileset>

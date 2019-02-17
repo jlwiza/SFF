@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a4b9a39688a4cca4bc17d3d3cf9fbc2b:b7105c1c17cc895d96a0d4319afe99d1:fc50f134b08b89d60a7b8ea52a282efe$ -->
+<TextureAtlas imagePath="BeachScntxtr-1.png" width="245" height="893">
+    <SubTexture name="BeachScene_sonicLookUpjogging0000" x="1" y="205" width="126" height="177" frameX="-76" frameY="-47" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_sonicwaitingLookUp0000" x="1" y="384" width="121" height="177" frameX="-81" frameY="-47" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_sonicWalkLookUp0000" x="1" y="563" width="110" height="176" frameX="-81" frameY="-48" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="brkenHornetIdle0000" x="1" y="741" width="128" height="151" frameX="-77" frameY="-51" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="brkenHornetIdle0001" x="131" y="741" width="106" height="146" frameX="-84" frameY="-53" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="brknMess0000" x="1" y="1" width="148" height="202" frameX="-114" frameY="-16" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="sonicWalkLookUp0000" x="113" y="563" width="110" height="176" frameX="-81" frameY="-48" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="sonicWalkLookUp0001" x="124" y="384" width="110" height="176" frameX="-81" frameY="-48" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="sonicWalkLookUp0002" x="151" y="1" width="93" height="170" frameX="-81" frameY="-51" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="sonicWalkLookUp0003" x="151" y="173" width="93" height="170" frameX="-81" frameY="-51" frameWidth="300" frameHeight="300"/>
+</TextureAtlas>

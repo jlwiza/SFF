@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:226baa16b86662e75cab9f6f78764144:5ef2f969350d5fc72435012719349d37:fd030f15e9b7f670990ebd2fc7f79bbb$ -->
+<TextureAtlas imagePath="tsee1.png" width="1750" height="2005">
+    <SubTexture name="driveing car0001" x="885" y="1" width="864" height="500"/>
+    <SubTexture name="driveing car0002" x="885" y="1" width="864" height="500"/>
+    <SubTexture name="driveing car0003" x="885" y="1" width="864" height="500"/>
+    <SubTexture name="driveing car0004" x="885" y="1" width="864" height="500"/>
+    <SubTexture name="driveing car0005" x="885" y="503" width="864" height="500"/>
+    <SubTexture name="driveing car0006" x="885" y="503" width="864" height="500"/>
+    <SubTexture name="driveing car0007" x="885" y="503" width="864" height="500"/>
+    <SubTexture name="driveing car0008" x="885" y="503" width="864" height="500"/>
+    <SubTexture name="driveing car0009" x="885" y="503" width="864" height="500"/>
+    <SubTexture name="driveing car0010" x="885" y="503" width="864" height="500"/>
+    <SubTexture name="driveing car0011" x="1" y="1504" width="864" height="500"/>
+    <SubTexture name="driveing car0012" x="867" y="1504" width="864" height="500"/>
+    <SubTexture name="driveing car0013" x="867" y="1504" width="864" height="500"/>
+    <SubTexture name="driveing car0014" x="867" y="1504" width="864" height="500"/>
+    <SubTexture name="driveing" x="867" y="1504" width="864" height="500"/>
+    <SubTexture name="drivin2 car0001" x="1" y="555" width="868" height="497"/>
+    <SubTexture name="drivin2 car0002" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0003" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0004" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0005" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0006" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0007" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0008" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0009" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0010" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2 car0011" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin2" x="871" y="1005" width="868" height="497"/>
+    <SubTexture name="drivin4" x="1" y="1" width="882" height="552"/>
+</TextureAtlas>

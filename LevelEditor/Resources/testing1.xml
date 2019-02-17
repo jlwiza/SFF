@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1bb95c77ffcf776b1847392084c06096:ead726d7b1f8d3d0ac3aa5480716930b:cbb81bb6516e9c7b5f23e4e7097ac1f7$ -->
+<TextureAtlas imagePath="testing1.png">
+    <SubTexture name="Dragon2" x="2" y="1204" width="510" height="281" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="Dragon3" x="514" y="1204" width="504" height="266" frameX="0" frameY="0" frameWidth="512" frameHeight="512"/>
+    <SubTexture name="image01" x="2" y="2" width="1920" height="1200"/>
+</TextureAtlas>

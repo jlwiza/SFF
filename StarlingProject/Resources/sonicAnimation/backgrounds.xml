@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="backgrounds.png">
+	<!-- Created with Adobe Flash Professional version 14.0.0.110 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="driveingCar0000" x="887" y="1423" width="575" height="235" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0001" x="887" y="1423" width="575" height="235" frameX="0" frameY="0" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0002" x="887" y="1423" width="575" height="235" frameX="0" frameY="0" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0003" x="887" y="1423" width="575" height="235" frameX="0" frameY="0" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0004" x="572" y="1621" width="313" height="262" frameX="-218" frameY="-166" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0005" x="572" y="1621" width="313" height="262" frameX="-218" frameY="-166" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0006" x="572" y="1621" width="313" height="262" frameX="-218" frameY="-166" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0007" x="572" y="1621" width="313" height="262" frameX="-218" frameY="-166" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0008" x="572" y="1621" width="313" height="262" frameX="-218" frameY="-166" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0009" x="572" y="1621" width="313" height="262" frameX="-218" frameY="-166" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="driveingCar0010" x="0" y="1774" width="441" height="146" frameX="-229" frameY="-353" frameWidth="670" frameHeight="499"/>
+	<SubTexture name="drivin20000" x="883" y="501" width="868" height="497" pivotX="4" pivotY="6.5"/>
+	<SubTexture name="drivin2Car0000" x="887" y="998" width="581" height="425" pivotX="1.3" pivotY="0.5"/>
+	<SubTexture name="drivin30000" x="0" y="1106" width="887" height="515" pivotX="4" pivotY="14.5"/>
+	<SubTexture name="drivin3Car0000" x="0" y="1621" width="572" height="153" pivotX="2.3" pivotY="0.5"/>
+	<SubTexture name="drivin3Car0001" x="0" y="1621" width="572" height="153"/>
+	<SubTexture name="drivin3Car0002" x="0" y="1621" width="572" height="153"/>
+	<SubTexture name="drivin3Car0003" x="0" y="1621" width="572" height="153"/>
+	<SubTexture name="drivin40000" x="0" y="554" width="883" height="552" pivotX="4" pivotY="10.5"/>
+	<SubTexture name="drivin50000" x="0" y="0" width="883" height="554" pivotX="0" pivotY="12.4"/>
+	<SubTexture name="driving0000" x="883" y="0" width="864" height="501" pivotX="0" pivotY="0"/>
+</TextureAtlas>

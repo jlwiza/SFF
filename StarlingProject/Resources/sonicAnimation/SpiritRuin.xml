@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpiritRuin.png">
+	<!-- Created with Adobe Animate version 16.2.0.24 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bigRunRight0000" x="0" y="0" width="119" height="159" pivotX="59.85" pivotY="82.5" frameX="0" frameY="-3" frameWidth="119" frameHeight="162"/>
+	<SubTexture name="bigRunRight0001" x="119" y="0" width="119" height="162"/>
+	<SubTexture name="bigRunRight0002" x="0" y="0" width="119" height="159" frameX="0" frameY="-3" frameWidth="119" frameHeight="162"/>
+</TextureAtlas>

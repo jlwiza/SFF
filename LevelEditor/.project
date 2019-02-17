@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>LevelEditor</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] DragonBonesASLib-src</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Google Drive/LibrariesAS3/DragonBonesASLib/src</location>
+		</link>
+		<link>
+			<name>[source path] SWFBridge</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Google Drive/LibrariesAS3/SWFBridge</location>
+		</link>
+		<link>
+			<name>[source path] StarlingProject-src</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Google Drive/StarlingProject/src</location>
+		</link>
+		<link>
+			<name>[source path] as3corelib-master 2-src</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Google Drive/LibrariesAS3/as3corelib-master 2/src</location>
+		</link>
+		<link>
+			<name>[source path] away3d-core-fp11-4.1.6-src</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Downloads/away3d-core-fp11-4.1.6/away3d-core-fp11-4.1.6/src</location>
+		</link>
+		<link>
+			<name>[source path] extension-src</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Google Drive/LibrariesAS3/Starling-Extension-Graphics-master 2/extension/src</location>
+		</link>
+		<link>
+			<name>[source path] starling-src</name>
+			<type>2</type>
+			<location>C:/Users/jonat/Google Drive/LibrariesAS3/Gamua-Starling-Framework-110c2a5/starling/src</location>
+		</link>
+		<link>
+			<name>bin-debug</name>
+			<type>2</type>
+			<location>C:/Users/jonat/AppData/Local/Adobe/Animate CC 2017/en_US/Configuration/WindowSWF</location>
+		</link>
+	</linkedResources>
+</projectDescription>

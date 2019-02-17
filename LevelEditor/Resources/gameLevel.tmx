@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="1000" height="100" tilewidth="32" tileheight="32">
+ <properties>
+  <property name="01" value=""/>
+ </properties>
+ <tileset firstgid="1" name="SonicJogging0001" tilewidth="50" tileheight="66">
+  <image source="../SonicsAnimations/SonicJogging0001.png" width="50" height="66"/>
+ </tileset>
+ <tileset firstgid="2" name="interp_25" tilewidth="512" tileheight="512">
+  <image source="../../../../Desktop/sonicBGs/interp/FES/another/pngs/images/interp_25.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="3" source="interp.tsx"/>
+ <tileset firstgid="3" name="water" tilewidth="4000" tileheight="2000">
+  <image source="../../../../Desktop/sonicBGs/water.png" width="4000" height="2000"/>
+ </tileset>
+ <objectgroup name="element" width="1000" height="100">
+  <object name="test" type="Test" x="1120" y="1600" width="344" height="346"/>
+  <object name="nearGroundPlane" type="Ground" x="128" y="1152">
+   <polyline points="0,0 173,67 361,79 585,79 776,85 1024,106 1221,139 1448,200 1564,215 1755,224 1897,230 2094,194 2252,215 2364,197 2609,191 2767,176 2933,176 3088,176 3285,188 3536,179 3745,176 3924,155 4188,127 4464,106 4652,64 4897,0 4992,-16 5091,-21 5339,-24 5442,-12 5664,21 5909,94 6158,185 6224,252 6555,473 6809,606 7048,667 7321,748 7606,758 7994,742 8230,718 8518,715 8794,721 9148,721 9442,712 9612,703 9873,703 10279,703 10536,703 10830,706 10997,712 11297,700 11436,697 11633,694 11961,682 12197,682 12521,682 12736,670 13112,673 13415,655 13648,652 13758,655 14015,661 14297,664 14548,664 14691,664 14839,648 15284,686 15611,689 15890,684 16161,676 16351,675 16976,673 17370,658 17591,682 17915,688 18239,691 18539,697 18709,682 18897,658 19124,600 19336,594 19537,591 19699,571 19777,549"/>
+  </object>
+  <object name="sonic" type="Hero" gid="1" x="0" y="0"/>
+  <object name="test" type="Test" x="2144" y="1696" width="344" height="346"/>
+ </objectgroup>
+ <objectgroup name="water" width="1000" height="100" visible="0">
+  <object gid="3" x="19520" y="2880"/>
+ </objectgroup>
+ <objectgroup name="main" width="1000" height="100">
+  <object x="10912" y="1248"/>
+  <object x="11424" y="1248"/>
+  <object x="11936" y="1248"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,44 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" currentTimeline="1" xflVersion="2.9" creatorInfo="Adobe Animate CC" platform="Windows" versionInfo="Saved by Animate Windows 16.1 build 86" majorVersion="16" minorVersion="1" buildNumber="86" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F7D0EE817D606449885B7314CEAD2E0D">
+     <symbols>
+          <Include href="Symbol 1.xml" itemID="58ca7e67-0000000a" lastModified="1489665639"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1">
+                                             <matrix>
+                                                  <Matrix tx="114.6" ty="145.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="97.45" y="31"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="440" publishTime="1489665827"/>
+          <PublishItem publishSize="552" publishTime="1489665780" publishDebug="true"/>
+          <PublishItem publishSize="457" publishTime="1489665754"/>
+          <PublishItem publishSize="316" publishTime="1489665316"/>
+          <PublishItem publishSize="424" publishTime="1489665305" publishDebug="true"/>
+          <PublishItem publishSize="601" publishTime="1489664740" publishDebug="true"/>
+          <PublishItem publishSize="473" publishTime="1489664255" publishDebug="true"/>
+          <PublishItem publishSize="473" publishTime="1489664026" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

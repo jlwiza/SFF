@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileset name="SonicJogging0001" tilewidth="50" tileheight="66">
+ <image source="../SonicsAnimations/SonicJogging0001.png" width="50" height="66"/>
+</tileset>

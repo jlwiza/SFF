@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SpiritRuinAtlas.png">
+	<!-- Created with Adobe Animate version 16.2.0.24 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpiritRuin_sonicFalling0_0000" x="0" y="0" width="135" height="186" pivotX="68.95" pivotY="101.45"/>
+	<SubTexture name="SpiritRuin_sonicFalling270_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicFalling90_0000" x="135" y="0" width="110" height="166" pivotX="63.5" pivotY="91.2"/>
+	<SubTexture name="SpiritRuin_sonicJogging0_0000" x="245" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJogging270_0000" x="545" y="0" width="300" height="300" pivotX="152" pivotY="149"/>
+	<SubTexture name="SpiritRuin_sonicJogging90_ 0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJumpFalling0_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJumpFalling270_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJumpFalling90_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJumpRising0_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJumpRising270_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicJumpRising90_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicRising0_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicRising270_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicRising90_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicRunning0_0000" x="1145" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicRunning270_0000" x="1445" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicRunning90_0000" x="1745" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicSprinting0_0000" x="0" y="300" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicSprinting270_0000" x="300" y="300" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicSprinting90_0000" x="600" y="300" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicWalking0_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicWalking270_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicWalking90_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicwaiting0_0000" x="900" y="300" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicwaiting270_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="SpiritRuin_sonicwaiting90_0000" x="845" y="0" width="300" height="300" pivotX="150" pivotY="150"/>
+	<SubTexture name="bigBattack0000" x="1200" y="300" width="371" height="264" pivotX="152.5" pivotY="195.55"/>
+	<SubTexture name="bigBidling0000" x="1571" y="300" width="427" height="201" pivotX="151.5" pivotY="143.75"/>
+	<SubTexture name="bigRunRight0000" x="119" y="600" width="119" height="159" pivotX="59.85" pivotY="79.5" frameX="0" frameY="-3" frameWidth="137" frameHeight="159"/>
+	<SubTexture name="bigRunRight0001" x="0" y="600" width="119" height="162"/>
+	<SubTexture name="bigRunRight0002" x="119" y="600" width="119" height="159" frameX="0" frameY="-3" frameWidth="137" frameHeight="159"/>
+	<SubTexture name="runes0000" x="119" y="600" width="119" height="159" pivotX="59.85" pivotY="79.5" frameX="0" frameY="0" frameWidth="137" frameHeight="159"/>
+	<SubTexture name="runes0001" x="238" y="600" width="130" height="159" frameX="-7" frameY="0" frameWidth="137" frameHeight="159"/>
+	<SubTexture name="runes0002" x="238" y="600" width="130" height="159" frameX="-7" frameY="0" frameWidth="137" frameHeight="159"/>
+	<SubTexture name="runes0003" x="119" y="600" width="119" height="159" frameX="0" frameY="0" frameWidth="137" frameHeight="159"/>
+	<SubTexture name="skateFlrbg0000" x="368" y="600" width="1197" height="307" pivotX="598.9" pivotY="153.5"/>
+</TextureAtlas>

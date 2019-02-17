@@ -1,0 +1,30 @@
+so what I'd like to do would be I think I spent half an hour so I have about half an hour till about 1 i think
+	
+what Id like to do is make sure the bezier system and everything saves the level, fix any bugs that may have crept in
+That is massively important than make a scratch just to make sure all the features work for the most part 
+
+
+4:00 just get the damn thing loading again some reason it doesnt work.. ughh something wrong with editmain may have that file currupted
+
+ok things seem to be working sort of so i think it means it may be a good idea to... get a scratch set up a project take some notes on what goes wrong
+// if its nothing too big i can live without but i need to test 
+	
+
+	at 12:30 do this juuunknknknk to 1:30
+	
+-	the animation as movement for sonic that's in game 
+
+-	bezier curves 2
+
+11:45
+
+ 	I need to get beziers up	saving loading of levels 
+	// ok this is how we handle bezier first consolidate it i dont need a Director.campathPts or whatever Director.paths is fine, and we just start from scrath
+	// go into bezier and add two parameters one would be Dindex, and next type, or something everything just defaults to path but if i change it to the campath or ground
+	// im pretty sure ground inherets from the thing or is paged in a way so it should be fine, it may just interpet the ground points i give it
+	// anyway creating all the lines will not only be a mess but will be expensive so, ill put an active tag on the one that is active we'll assume just one
+	// but in the future hopefully we wont need but itll be capable of just adding another one in there also, so what we do is just have each bezier point as the active thing is only in the first param[[{X:0,Y:0,Z:0,active:false},{X:0,Y:0,Z:0}],]
+	// so then we just unpack it the same as usual for(bzs) in a for(pts) statement var v:Object = {X:Y:Z:} if i2 == 0 v.active = (i2 == currentBez.Dindex)
+	need to delete stuff
+	
+-	also creating images and uploading it into game

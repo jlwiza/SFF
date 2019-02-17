@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FinalCutAtlas.png">
+	<!-- Created with Adobe Animate version 16.2.0.24 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bigBFly0000" x="0" y="0" width="279" height="138" pivotX="201.55" pivotY="69" frameX="-90" frameY="-36" frameWidth="394" frameHeight="184"/>
+	<SubTexture name="bigBFly0001" x="0" y="0" width="279" height="138" frameX="-90" frameY="-36" frameWidth="394" frameHeight="184"/>
+	<SubTexture name="bigBFly0002" x="0" y="138" width="394" height="135" frameX="0" frameY="0" frameWidth="394" frameHeight="184"/>
+	<SubTexture name="bigBFly0003" x="0" y="138" width="394" height="135" frameX="0" frameY="0" frameWidth="394" frameHeight="184"/>
+	<SubTexture name="bigBFly0004" x="0" y="138" width="394" height="135" frameX="0" frameY="0" frameWidth="394" frameHeight="184"/>
+	<SubTexture name="bigBFly0005" x="0" y="273" width="330" height="172" frameX="-64" frameY="-12" frameWidth="394" frameHeight="184"/>
+</TextureAtlas>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:1bb95c77ffcf776b1847392084c06096:ead726d7b1f8d3d0ac3aa5480716930b:cbb81bb6516e9c7b5f23e4e7097ac1f7$ -->
+<TextureAtlas imagePath="testing0.png">
+    <SubTexture name="BeachScene_begsonicJumpRising0001" x="1084" y="323" rotated="true" width="112" height="75" frameX="-116" frameY="-89" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_begsonicRunning0001" x="1084" y="557" width="107" height="158" frameX="-92" frameY="-68" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_begsonicSprinting0001" x="1084" y="160" width="112" height="161" frameX="-85" frameY="-83" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_begsonicwaiting0001" x="1084" y="1014" width="90" height="214" frameX="-99" frameY="-71" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_endsonicJogging0001" x="1084" y="852" width="92" height="160" frameX="-83" frameY="-68" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_endsonicSprinting0001" x="1084" y="2" width="124" height="156" frameX="-84" frameY="-84" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_endsonicWalking0001" x="1084" y="1386" width="85" height="162" frameX="-87" frameY="-68" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_endsonicwaiting0001" x="1084" y="400" width="108" height="155" frameX="-97" frameY="-81" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_midsonicJogging0001" x="1084" y="1230" width="89" height="154" frameX="-105" frameY="-68" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_midsonicJumpFalling0001" x="1084" y="323" rotated="true" width="112" height="75" frameX="-116" frameY="-89" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_midsonicJumpRising0001" x="1084" y="323" rotated="true" width="112" height="75" frameX="-116" frameY="-89" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BeachScene_midsonicSprinting0001" x="1084" y="160" width="112" height="161" frameX="-85" frameY="-83" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="Cars" x="1084" y="717" rotated="true" width="94" height="133" frameX="0" frameY="-7" frameWidth="133" frameHeight="101"/>
+    <SubTexture name="Circle" x="1180" y="717" width="27" height="27" frameX="-3" frameY="-3" frameWidth="32" frameHeight="32"/>
+    <SubTexture name="TestScene_sonicJogging0001" x="1151" y="1550" width="50" height="61" frameX="0" frameY="-3" frameWidth="50" frameHeight="67"/>
+    <SubTexture name="TestScene_sonicJogging0002" x="1084" y="1550" rotated="true" width="65" height="49" frameX="-1" frameY="-2" frameWidth="50" frameHeight="67"/>
+    <SubTexture name="TestScene_sonicWalking0001" x="1084" y="1601" rotated="true" width="60" height="45" frameX="-1" frameY="-5" frameWidth="46" frameHeight="65"/>
+    <SubTexture name="TestScene_sonicWalking0005" x="1175" y="1297" width="33" height="61" frameX="0" frameY="0" frameWidth="46" frameHeight="66"/>
+    <SubTexture name="TestScene_sonicWalking0006" x="1175" y="1230" width="33" height="65" frameX="-2" frameY="0" frameWidth="46" frameHeight="65"/>
+    <SubTexture name="scneopening" x="2" y="2" rotated="true" width="1080" height="1920"/>
+</TextureAtlas>
